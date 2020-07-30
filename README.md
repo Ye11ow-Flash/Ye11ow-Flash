@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer, and Engineer!
 - 🔭 I’m currently working on an chrome extension: [TabOverflow][tab_website]!
-- 🌱 I’m currently employeed at Reliance Jio as Software Engineer
+- 💻 I’m currently employeed at Reliance Jio 📲 as Software Engineer 💺
 - 👯 I’m open to collaborate with other developers
-- ⚡ Fun fact: I love to sketch and play guitar
+- ⚡ Fun fact: I love to sketch ✏️ and play guitar 🎸
 
 ### Connect with me:
 
