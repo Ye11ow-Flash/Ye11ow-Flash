@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an chrome extension: [TabOverflow][tab_website]!
 - 💻 I’m currently employeed at Reliance Jio 📲 as Software Engineer 💺
 - 👯 I’m open to collaborate with other developers
-- ⚡ Fun fact: I love to sketch ✏️ and play guitar 🎸 and practice karate 
+- ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
 
 ### Connect with me:
 
