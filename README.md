@@ -55,14 +55,11 @@
 - [V-Watch](https://www.youtube.com/watch?v=Emw3hs4JtyQ)
 - [AutoHTML - KJSCE Hackathon 2019](https://www.youtube.com/watch?v=FPZ-wn0oAU0)
 <!-- YOUTUBE:END -->
-
+<a href="https://www.producthunt.com/posts/taboverflow?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-taboverflow" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=237619&theme=light" alt="TabOverflow - Manage your tabs with Excellence! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 ---
 
 <img align="left" alt="ye11ow_flash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ye11ow-Flash&show_icons=true&hide_border=true&count_private=true" />
 
-|||
-
-<a href="https://www.producthunt.com/posts/taboverflow?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-taboverflow" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=237619&theme=light" alt="TabOverflow - Manage your tabs with Excellence! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 
 [website]: http://jaineelshah.me/
