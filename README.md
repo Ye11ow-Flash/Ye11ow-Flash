@@ -60,20 +60,8 @@
 
 <img align="left" alt="ye11ow_flash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ye11ow-Flash&show_icons=true&hide_border=true&count_private=true" />
 
----
+|||
 
-### Connect with me:
-
-[<img align="left" alt="jaineelshah.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
 <a href="https://www.producthunt.com/posts/taboverflow?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-taboverflow" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=237619&theme=light" alt="TabOverflow - Manage your tabs with Excellence! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 
