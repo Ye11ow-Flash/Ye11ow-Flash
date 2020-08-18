@@ -56,7 +56,7 @@
 
 ---
 
-<img align="left" alt="ye11ow_flash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ye11ow-Flash&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="ye11ow_flash's Github Stats" src="https://github-readme-stats.ye11ow-flash.vercel.app/api?username=Ye11ow-Flash&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: http://jaineelshah.me/
 [tab_website]: https://taboverflow.web.app/
