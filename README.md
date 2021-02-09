@@ -67,7 +67,7 @@
 
 
 
-[website]: http://jaineelshah.me/
+[website]: https://ye11ow-flash.github.io/
 [tab_website]: https://taboverflow.web.app/
 [twitter]: https://twitter.com/JaineelNShah
 [facebook]: https://www.facebook.com/jaineel.shah.1997
