@@ -5,6 +5,7 @@ I am a passionate Software Engineer and Data Scientist with a strong background 
 With hands-on experience in Python, Golang, C/C++, Java, JavaScript, and distributed systems, I thrive in fast-paced environments where innovation and efficiency are key. My expertise spans across cloud computing, network security, and machine learning, with a proven track record of delivering impactful solutions in both industry and research settings.
 
 ## Fun-Facts!
+- 🤖 Winner of SBU Hackathon: [StonyBot][stony_bot]
 - 🔭 I’m have worked on an chrome extension: [TabOverflow][tab_website]!
 - 💻 I’m currently employeed at Arista Networks 📲 as Software Engineer 💺
 - 👯 I’m open to collaborate with other developers
@@ -81,6 +82,7 @@ With hands-on experience in Python, Golang, C/C++, Java, JavaScript, and distrib
 [youtube]: https://www.youtube.com/channel/UC2M1w0IgH-1YCLKaa2Ej82Q
 [instagram]: https://www.instagram.com/jaineel_97/
 [linkedin]: https://www.linkedin.com/in/jaineel-shah-6b6149154/
+[stony_bot]: https://github.com/Ye11ow-Flash/Stony-Bot/
 <!-- : https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
