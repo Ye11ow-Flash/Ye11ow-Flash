@@ -1,14 +1,18 @@
 ### Hey there, I'm Jaineel - aka [ye11ow_flash][website] 👋
 
-## I'm a Student, Developer, and Engineer!
-- 🔭 I’m currently working on an chrome extension: [TabOverflow][tab_website]!
-- 💻 I’m currently employeed at Reliance Jio 📲 as Software Engineer 💺
+I am a passionate Software Engineer and Data Scientist with a strong background in building scalable systems, optimizing performance, and leveraging machine learning to solve complex problems. Currently working at Arista Networks in Austin, TX, I specialize in designing robust authorization workflows, optimizing network modeling frameworks, and implementing real-time monitoring solutions. My work has significantly reduced latency, improved telemetry accuracy, and enhanced system reliability for enterprise clients like Google, Meta, and Microsoft.
+
+With hands-on experience in Python, Golang, C/C++, Java, JavaScript, and distributed systems, I thrive in fast-paced environments where innovation and efficiency are key. My expertise spans across cloud computing, network security, and machine learning, with a proven track record of delivering impactful solutions in both industry and research settings.
+
+## Fun-Facts!
+- 🔭 I’m have worked on an chrome extension: [TabOverflow][tab_website]!
+- 💻 I’m currently employeed at Arista Networks 📲 as Software Engineer 💺
 - 👯 I’m open to collaborate with other developers
-- ⚡ Fun fact: I love to sketch ✏️, am a budding 🎸 guitarist and practice karate 
+- ⚡ Fun fact: I love to watch 👀 anime and read 📚 manga, sketch ✏️, play 🎸 guitar and practice karate.
 
 ### Connect with me:
 
-[<img align="left" alt="jaineelshah.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ye11ow-flash.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -25,6 +29,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="BOOTSTRAP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Chrome-Extension" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png" />
@@ -41,6 +46,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <br />
 <br />
